@@ -2,11 +2,11 @@
 This LaTeX template is designed for academic writing, particularly for subjects involving **mathematical equations and physics**. It is a modified version of Kevin Zhou's template, adapted for Bengali writing support while maintaining its original structure for general academic use. Normal text documents can also be written using this template.
 ## Files in This Repository
 
-- **template.zip**: A ZIP archive containing the essential files for this template.
+- **bangla_template.zip**: A ZIP archive containing the essential files for this template.
 - **custom.sty**: A custom style file modified from Kevin Zhou's original version. This file has been adjusted to enhance mathematical equations and to support Bengali text.
 - **kalpurush.ttf**: The Kalpurush font file, licensed under the [SIL Open Font License, Version 1.0](https://scripts.sil.org/OFL).
 - **main.tex**: The main LaTeX file to compile your document. This file is also a modified version of Kevin Zhou's original template.
-- **template.pdf**: A preview PDF of the template.
+- **bangla_template.pdf**: A preview PDF of the template.
 
 ## How to Use
 1. **Download and Upload**  
