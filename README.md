@@ -10,7 +10,7 @@ This LaTeX template is designed for academic writing, particularly for subjects 
 
 ## How to Use
 1. **Download and Upload**  
-   - Download the `template.zip` file from this repository.
+   - Download the `bangla_template.zip` file from this repository.
    - Upload the ZIP file to [Overleaf](https://www.overleaf.com) to create a new project.
 
 2. **Set the Compiler**  
