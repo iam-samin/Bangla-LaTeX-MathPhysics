@@ -3,7 +3,7 @@ This LaTeX template is designed for academic writing, particularly for subjects 
 ## Files in This Repository
 
 - **bangla_template.zip**: A ZIP archive containing the essential files for this template.
-- **custom.sty**: A custom style file modified from Kevin Zhou's original version. This file has been adjusted to enhance mathematical equations and to support Bengali text.
+- **custom.sty**: A custom style file modified from Kevin Zhou's original version. This file has been adjusted to support Bengali text.
 - **kalpurush.ttf**: The Kalpurush font file, licensed under the [SIL Open Font License, Version 1.0](https://scripts.sil.org/OFL).
 - **main.tex**: The main LaTeX file to compile your document. This file is also a modified version of Kevin Zhou's original template.
 - **bangla_template.pdf**: A preview PDF of the template.
