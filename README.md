@@ -18,11 +18,11 @@ This LaTeX template is designed for academic writing, particularly for subjects 
 ## Writing in Bengali
 
 - The primary language of this template is **English**.
-- To include Bengali text, use the command:
+- To enable Bengali text throughout the document, simply use the `\bn` command **once** at the beginning of your document, right after `\begin{document}`:
   ```latex
   \begin{document}
   \bn
-  % Bengali Text
+  % Now you can start writing Bengali text normally.
   \end{document}
 
 ## Credit
