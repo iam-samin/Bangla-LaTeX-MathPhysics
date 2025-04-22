@@ -20,12 +20,10 @@ This LaTeX template is designed for academic writing, particularly for subjects 
 - The primary language of this template is **English**.
 - To include Bengali text, use the command:
   ```latex
-  \bn{[Bangla text]}
-  % Alternatively, you can use:
-  \begin{bn}
-  [Bangla text]
-  \end{bn}
-
+  \begin{document}
+  \bn
+  % Bengali Text
+  \end{document}
 
 ## Credit
 This template is originally based on Kevin Zhou's LaTeX template. You can find the original version on his website: [Kevin Zhou's Website](https://knzhou.github.io/)
